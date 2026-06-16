@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hellogith.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120016517b4c10b560fe742922701da33fd6d9a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932e56504e3dbeb4836e9ea81719e7ae443d4d51")]
 [assembly: System.Reflection.AssemblyProductAttribute("hellogith.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hellogith.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
