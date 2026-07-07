@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\bin\Debug\net9.0\ex5.exe
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\bin\Debug\net9.0\ex5.deps.json
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\bin\Debug\net9.0\ex5.runtimeconfig.json
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\bin\Debug\net9.0\ex5.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\bin\Debug\net9.0\ex5.pdb
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.sourcelink.json
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\refint\ex5.dll
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.pdb
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ex5.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lpr2k26\aula8\ex5\obj\Debug\net9.0\ref\ex5.dll
