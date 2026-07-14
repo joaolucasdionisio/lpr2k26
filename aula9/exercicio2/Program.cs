@@ -1,21 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 class Program
 {
     static void Main(string[] args)
     {
         Console.Write("Digite a quantidade de nomes: ");
-        int qtd = int.Parse(Console.ReadLine());
+        int qtd = int.Parse(Console.ReadLine() ?? "0");
 
         var nomes = new List<string>();
         for (int i = 1; i <= qtd; i++)
         {   
             Console.Write($"Digite o nome {i}: ");
-            nomes.Add(Console.ReadLine());
+            nomes.Add(Console.ReadLine() ?? "");
         }
 
-        var linhas = new List<string>();
+        var linhas = new List<List<string>>();
         foreach (var nome in nomes)
         {
             int tmamaho =  nome.Length;
